@@ -1,0 +1,54 @@
+{
+  "name": "madurez-digital-empresarial",
+  "version": "2.0.0",
+  "description": "Herramienta integral para evaluar la madurez digital de organizaciones en cualquier sector, incluyendo las 5 Interfaces Digitales Críticas basadas en MIEDE 2.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -p 3000",
+    "preview": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "madurez-digital",
+    "transformacion-digital",
+    "evaluacion-digital",
+    "MIEDE",
+    "digital-maturity",
+    "digital-transformation",
+    "assessment",
+    "business-transformation",
+    "interfaces-digitales",
+    "digital-strategy"
+  ],
+  "author": {
+    "name": "Juan Carlos Alzate García",
+    "email": "jalzate@transformacionexo.com",
+    "url": "https://transformacionexo.com"
+  },
+  "contributors": [
+    {
+      "name": "Juan Carlos Alzate García",
+      "email": "jalzate@transformacionexo.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/madurez-digital.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/madurez-digital/issues",
+    "email": "jalzate@transformacionexo.com"
+  },
+  "homepage": "https://github.com/tu-usuario/madurez-digital#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "private": false,
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {}
+}
